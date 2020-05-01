@@ -154,7 +154,6 @@ def confusion_matrix(actual,predicted):
     print('Recall: ',recal*100)
     print('F Score: ',f_scor*100)
     
-
 def main(i):
     test_set=dset
     pred=[]
