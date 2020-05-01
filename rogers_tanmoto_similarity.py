@@ -4,7 +4,6 @@ Created on Fri May  1 11:44:35 2020
 
 @author: newma
 """
-
 import time
 #import random
 import numpy as np
